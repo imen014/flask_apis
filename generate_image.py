@@ -7,7 +7,7 @@ import base64
 # Configure la clé API (remplacez YOUR_API_KEY par votre clé réelle)
 
 def my_function():
-  client = genai.Client(api_key="AIzaSyBqm2z_pcTDCU0ubeEMidJRohRkXDvlIsg")
+  client = genai.Client(api_key="API_KEY")
 
   contents = ('Broken Angel')
 
